@@ -1,0 +1,375 @@
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 10:40:12 WAT 2024
+Total Price: $23.00
+Items:
+tabouna escalope
+tabouna thon 
+tabouna chawrma
+tabouna salami
+
+Order Details:
+Client ID: 2
+Ticket Number: 3
+Date: Tue Apr 30 10:40:18 WAT 2024
+Total Price: $23.00
+Items:
+tabouna thon 
+tabouna escalope
+tabouna chawrma
+tabouna salami
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 10:43:11 WAT 2024
+Total Price: $23.00
+Items:
+tabouna escalope
+tabouna chawrma
+tabouna salami
+tabouna thon 
+
+Order Details:
+Client ID: 2
+Ticket Number: 3
+Date: Tue Apr 30 10:43:16 WAT 2024
+Total Price: $16.00
+Items:
+tabouna thon 
+tabouna escalope
+tabouna salami
+
+Order Details:
+Client ID: 2
+Ticket Number: 4
+Date: Tue Apr 30 10:43:20 WAT 2024
+Total Price: $15.00
+Items:
+kaftaji tabouna
+kaftaji baguette
+tabouna thon 
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 10:48:58 WAT 2024
+Total Price: $23.00
+Items:
+tabouna escalope
+tabouna chawrma
+tabouna salami
+kaftaji baguette
+
+Order Details:
+Client ID: 2
+Ticket Number: 3
+Date: Tue Apr 30 10:49:04 WAT 2024
+Total Price: $39.00
+Items:
+kaftaji baguette
+tabouna thon 
+tabouna escalope
+plat shwarma
+plat escalope
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 10:49:54 WAT 2024
+Total Price: $17.00
+Items:
+tabouna thon 
+tabouna thon 
+tabouna escalope
+
+Order Details:
+Client ID: 2
+Ticket Number: 3
+Date: Tue Apr 30 10:49:57 WAT 2024
+Total Price: $17.00
+Items:
+kaftaji baguette
+tabouna thon 
+tabouna escalope
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 10:51:41 WAT 2024
+Total Price: $24.00
+Items:
+kaftaji baguette
+tabouna thon 
+tabouna escalope
+tabouna chawrma
+
+Order Details:
+Client ID: 2
+Ticket Number: 3
+Date: Tue Apr 30 10:51:46 WAT 2024
+Total Price: $24.00
+Items:
+kaftaji tabouna
+kaftaji baguette
+tabouna escalope
+tabouna chawrma
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 10:54:08 WAT 2024
+Total Price: $37.00
+Items:
+tabouna escalope
+plat shwarma
+kaftaji baguette
+pizza 4 fromage
+
+Order Details:
+Client ID: 2
+Ticket Number: 3
+Date: Tue Apr 30 10:54:16 WAT 2024
+Total Price: $49.00
+Items:
+pizza 4 fromage
+pizza moyenne thon
+pizza 3 fromage
+plat escalope
+kafatji + freet
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 10:57:06 WAT 2024
+Total Price: $30.00
+Items:
+tabouna thon 
+plat shwarma
+pizza 4 fromage
+
+Order Details:
+Client ID: 2
+Ticket Number: 3
+Date: Tue Apr 30 10:57:08 WAT 2024
+Total Price: $10.00
+Items:
+pizza 3 fromage
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 10:58:35 WAT 2024
+Total Price: $17.00
+Items:
+tabouna escalope
+tabouna thon 
+kaftaji baguette
+
+Order Details:
+Client ID: 2
+Ticket Number: 3
+Date: Tue Apr 30 10:58:39 WAT 2024
+Total Price: $17.00
+Items:
+kaftaji baguette
+tabouna thon 
+tabouna escalope
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 11:01:09 WAT 2024
+Total Price: $26.00
+Items:
+kaftaji baguette
+tabouna escalope
+tabouna chawrma
+pizza moyenne thon
+
+Order Details:
+Client ID: 2
+Ticket Number: 3
+Date: Tue Apr 30 11:01:14 WAT 2024
+Total Price: $35.00
+Items:
+pizza 4 fromage
+pizza 3 fromage
+pizza 3 fromage
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 11:05:52 WAT 2024
+Total Price: $39.00
+Items:
+kaftaji baguette
+tabouna thon 
+tabouna escalope
+pizza 4 fromage
+pizza moyenne thon
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 11:08:21 WAT 2024
+Total Price: $19.00
+Items:
+tabouna thon 
+tabouna escalope
+tabouna chawrma
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 11:12:51 WAT 2024
+Total Price: $12.00
+Items:
+tabouna thon 
+tabouna escalope
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 11:16:55 WAT 2024
+Total Price: $23.00
+Items:
+tabouna escalope
+tabouna thon 
+tabouna chawrma
+tabouna salami
+
+Order Details:
+Client ID: 2
+Ticket Number: 3
+Date: Tue Apr 30 11:16:59 WAT 2024
+Total Price: $17.00
+Items:
+kaftaji baguette
+tabouna thon 
+tabouna chawrma
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 11:19:02 WAT 2024
+Total Price: $24.00
+Items:
+pizza moyenne thon
+pizza 3 fromage
+pizza moyenne thon
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 11:28:15 WAT 2024
+Total Price: $24.00
+Items:
+pizza moyenne thon
+kaftaji baguette
+tabouna thon 
+tabouna chawrma
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 12:00:28 WAT 2024
+Total Price: $75.00
+Items:
+pizza moyenne thon
+pizza 4 fromage
+pizza 3 fromage
+kaftaji baguette
+tabouna escalope
+tabouna chawrma
+plat escalope
+plat escalope
+
+Order Details:
+Client ID: 3
+Ticket Number: 2
+Date: Tue Apr 30 12:01:14 WAT 2024
+Total Price: $24.00
+Items:
+oja mergaz
+oja mergaz
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Tue Apr 30 23:59:37 WAT 2024
+Total Price: $34.00
+Items:
+pizza moyenne thon
+pizza 3 fromage
+kaftaji baguette
+tabouna thon 
+tabouna escalope
+
+Order Details:
+Client ID: 2
+Ticket Number: 3
+Date: Tue Apr 30 23:59:51 WAT 2024
+Total Price: $17.00
+Items:
+kaftaji baguette
+kaftaji tabouna
+pizza moyenne thon
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Thu May 02 00:23:53 WAT 2024
+Total Price: $29.61
+Items:
+pizza moyenne thon
+plat escalope
+tabouna escalope
+tabouna salami
+
+Order Details:
+Client ID: 2
+Ticket Number: 3
+Date: Thu May 02 00:24:07 WAT 2024
+Total Price: $0.00
+Items:
+
+Order Details:
+Client ID: 2
+Ticket Number: 2
+Date: Thu May 02 00:31:33 WAT 2024
+Total Price: $4.00
+Items:
+tabouna salami
+
+Order Details:
+Client ID: 2
+Ticket Number: 3
+Date: Thu May 02 00:31:39 WAT 2024
+Total Price: $19.00
+Items:
+tabouna escalope
+tabouna thon 
+tabouna chawrma
+
+Order Details:
+Client ID: 2
+Ticket Number: 4
+Date: Thu May 02 00:31:45 WAT 2024
+Total Price: $18.00
+Items:
+tabouna escalope
+tabouna chawrma
+tabouna salami
+
+Order Details:
+Client ID: 2
+Ticket Number: 5
+Date: Thu May 02 00:31:50 WAT 2024
+Total Price: $17.00
+Items:
+kaftaji baguette
+tabouna thon 
+tabouna escalope
+
